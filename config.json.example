@@ -1,0 +1,6 @@
+{
+    "clickup_token": "pk_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "clickup_list_id": 87654321,
+    "set_ios_reminders": true,
+    "set_ios_reminders_alarms": true
+}

@@ -9,6 +9,8 @@ I also use several iPad apps to take notes that allow me to use Apple's Pencil t
 
 This script will use the Share sheet within iOS, and process a text file line by line, looking for todo list items and keywords.  If it finds them, it will create a new ClickUp task and iOS reminder item for each one, so I can more easily keep track of where I left off.
 
+[Documentation Page](https://github.mymultivac.com/pythonista-todo/)
+
 
 ### Built With
 
